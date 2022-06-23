@@ -7,7 +7,7 @@
 <h4> Accountant / Financial Consultant / Financial Audit / Cost Analyst</h4>
      
 <h3> NOW </h3>     
-<h4> A student of: Data Science / Pyton / Data Base / Math and Statistics </h4>
+<h4> A student of: Data Science / Python / Data Base / Math and Statistics </h4>
 <h6> And never stop to lear and teach. </h6>
 </div>
 
