@@ -8,7 +8,7 @@
      
 <h3> NOW </h3>     
 <h4> A student of: Data Science / Python / Data Base / Math and Statistics </h4>
-<h6> And never stop to lear and teach. </h6>
+<h6> And never stop to learn and teach. </h6>
 </div>
 
 <div align="center">
