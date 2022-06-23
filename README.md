@@ -1,5 +1,7 @@
+<div align="center">
 <h1> Hi! My name is Alexson Theobald. </h1>
 <h2> I'm a Data Science Student. </h2>
+</div>
 
 
 <div align="center">
