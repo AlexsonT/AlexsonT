@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/AlexsonT">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AlexsonT&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsonT&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=AlexsonT&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsonT&layout=compact&langs_count=7&theme=react" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/alexsontheobald/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexson-theobald-a6a56958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AlexsonT/AlexsonT/blob/output/github-contribution-grid-snake.svg)
+ #![Snake animation](https://github.com/rafaballerini/AlexsonT/blob/output/github-contribution-grid-snake.svg)''
  
 </div>
  
