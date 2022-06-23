@@ -1,12 +1,13 @@
 <h1> Hi! My name is Alexson Theobald. </h1>
+<h2> I'm a Data Science Student. </h2>
 
-<div style="display: inline_block"><br> 
- <div align="center">
-    <a href="https://github.com/AlexsonT">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsonT&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsonT&layout=compact&langs_count=7&theme=react" />
-  </div>
-</div>   
+
+<div align="center">
+   <a href="https://github.com/AlexsonT">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsonT&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsonT&layout=compact&langs_count=7&theme=react" />
+</div>
+
    
 
 <div align="center">  
